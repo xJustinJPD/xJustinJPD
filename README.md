@@ -1,12 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?text=Welcome🕹️&animation=fadeIn&type=waving&color=gradient&height=100)
 
-<H3>Hey guys, I'm Justin, I'm a programmer and developer working on my final project in my final year of my undergrad: BSc Creative Computing, IADT, Dun Laoghaire.</H3>
+<H4>Hey guys, I'm Justin, I'm a programmer and developer working on my final project in my final year of my undergrad: BSc Creative Computing, IADT, Dun Laoghaire. I'm pursuing & have been conditionally accepted to the MSc Computer Science (Negotiated Learning) masters programme in UCD, I'm super excited to get started!!</H4>
 <p><a href="https://iadt.ie/courses/creative-computing/"><b>My Undergrad Course</b></a></p>
-
-<H3>I'm pursuing & have been conditionally accepted to the MSc Computer Science (Negotiated Learning) masters programme in UCD, I'm super excited to get started!!</H3>
 <p><a href="https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T150&KEYWORD=msc%20computer%20science%20negotiated%20learning"><b>My Masters Course</b></a></p>
+
+ 🔭 Portfolio: https://jpd-portfolio.vercel.app/ <br/>
+ 📫 How to reach me: justinperrydoyle@gmail.com <br/>
+ 😄 Pronouns: He/Him <br/>
+⚡ Fun fact: I've been developing for 4 years and am conditionally accepted for a masters!!! <br/>
 <hr/>
-<br/>
 
 <H3>Languages:</H3>
 
@@ -73,10 +75,7 @@
 
 <hr/>
  <br/>
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xJustinJPD)](https://github.com/anuraghazra/github-readme-stats)
  
- 🔭 I’m currently working on my final project for university <br/>
- 🌱 I’m currently learning PyFlask <br/>
- 📫 How to reach me: justinperrydoyle@gmail.com <br/>
- 😄 Pronouns: He/Him <br/>
-⚡ Fun fact: I've been developing for 4 years and am conditionally accepted for a masters!!! <br/>
 
