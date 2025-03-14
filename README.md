@@ -4,10 +4,11 @@
 <p><a href="https://iadt.ie/courses/creative-computing/"><b>My Undergrad Course</b></a></p>
 <p><a href="https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T150&KEYWORD=msc%20computer%20science%20negotiated%20learning"><b>My Masters Course</b></a></p>
 
- 🔭 Portfolio: https://jpd-portfolio.vercel.app/ <br/>
- 📫 How to reach me: justinperrydoyle@gmail.com <br/>
- 😄 Pronouns: He/Him <br/>
-⚡ Fun fact: I've been developing for 4 years and am conditionally accepted for a masters!!! <br/>
+📈 LinkedIn: https://www.linkedin.com/in/justin-perry-doyle-431a15250/ <br/>
+🔭 Portfolio: https://jpd-portfolio.vercel.app/ <br/>
+📫 How to reach me: justinperrydoyle@gmail.com <br/>
+😄 Pronouns: He/Him <br/>
+⚡ Fun fact: It's been a lifelong goal of mine to attain a masters! <br/>
 <hr/>
 
 <H3>Languages:</H3>
